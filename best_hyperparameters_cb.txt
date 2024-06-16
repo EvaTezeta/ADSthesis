@@ -1,0 +1,8 @@
+{
+    "learning_rate": 0.0030056283610082855,
+    "depth": 4,
+    "subsample": 0.3981817329083437,
+    "colsample_bylevel": 0.6054321491200347,
+    "min_data_in_leaf": 78,
+    "class_weight_1": 11.957488817851354
+}
